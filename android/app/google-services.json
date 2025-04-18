@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993343045879",
+    "project_id": "notificationsapp-5131f",
+    "storage_bucket": "notificationsapp-5131f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993343045879:android:8e056695a0ea211dbc93f2",
+        "android_client_info": {
+          "package_name": "com.example.cloud_messaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFY5YV30Sv4OCSP_fHDFv_QuVjJ8IsSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993343045879:android:b4fd6850d7fe729fbc93f2",
+        "android_client_info": {
+          "package_name": "com.example.cloud_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFY5YV30Sv4OCSP_fHDFv_QuVjJ8IsSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
